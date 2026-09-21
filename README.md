@@ -7,9 +7,25 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=5CE1E6&center=true&vCenter=true&width=720&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%92%D0%B0%D0%B4%D0%B8%D0%BC;Full-stack+%26+desktop+developer;%D0%9F%D0%9E+%D0%B4%D0%BB%D1%8F+%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D0%91%D0%9F%D0%9B%D0%90;C%2B%2B+%C2%B7+Web+%C2%B7+SQL+%C2%B7+OpenCV" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=5CE1E6&center=true&vCenter=true&width=720&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%92%D0%B0%D0%B4%D0%B8%D0%BC;Full-stack+%26+desktop+developer;%D0%9F%D0%9E+%D0%B4%D0%BB%D1%8F+%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D0%91%D0%9F%D0%9B%D0%90;V1DeeK+%C2%B7+mr.varder" alt="typing"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=FF4D8D&center=true&vCenter=true&width=720&lines=UAV+ground+control;OpenCV+%C2%B7+FFmpeg+%C2%B7+SQL;desktop+apps+on+C%2B%2B+and+Qt;web+%C2%B7+React+%C2%B7+TypeScript" alt="typing stack"/>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,ts,react,qt,opencv,dotnet,postgres,git,github,vscode&theme=dark" alt="stack icons"/>
+  <br/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <br/>
   <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/live.svg" alt="live"/>
 </div>
@@ -77,7 +93,7 @@
 <td width="78%" valign="top">
 
 ### Центр информационных технологий
-`full-stack` `desktop` `сейчас`
+`full-stack` `desktop` `2026 — н.в.`
 
 Разрабатываю ПО для управления БПЛА: десктопные рабочие места оператора, обмен данными с бортом и наземной частью, веб-интерфейсы сопровождения и служебные сервисы вокруг контура управления.
 
@@ -98,29 +114,29 @@
 <tr>
 <td width="33%" valign="top">
 
-### ЦИТ
-**Full-stack & desktop**  
-`сейчас`
+### Спортивный центр
+**Desktop**  
+`2020 — 2022`
 
-ПО для управления БПЛА: десктоп, веб, обмен данными с системой.
+ПО управления табло на баскетболе. Статистика по видео: детекция событий, трекинг игроков, протокол матча.
 
 </td>
 <td width="34%" valign="top">
 
 ### Машиностроительный завод
 **Full-stack**  
-`после выпуска`
+`2022 — 2026`
 
 Программы проверки аппаратуры и изделий. Внутренний сайт: главная, вакансии, поиск. База нормативных актов — поиск и просмотр документов.
 
 </td>
 <td width="33%" valign="top">
 
-### Спортивный центр
-**Desktop**  
-`совместительство`
+### ЦИТ
+**Full-stack & desktop**  
+`2026 — н.в.`
 
-ПО управления табло на баскетболе. Статистика по видео: детекция событий, трекинг игроков, протокол матча.
+ПО для управления БПЛА: десктоп, веб, обмен данными с системой.
 
 </td>
 </tr>
@@ -130,12 +146,12 @@
 <tr>
 <td width="50%" valign="top">
 
-> **Завод.** Полный контур: десктоп для стендов проверки, веб для сотрудников, SQL-хранилище документов с поиском по реквизитам и тексту.
+> **2020 — 2022 · Спортцентр.** Табло по TCP/UDP: часы, счёт, фолы, тайм-ауты. Видео: **FFmpeg → OpenCV → Python/C++** — калибровка, фон, трекинг, события, SQLite и вывод на табло.
 
 </td>
 <td width="50%" valign="top">
 
-> **Спортцентр.** Табло по TCP/UDP: часы, счёт, фолы, тайм-ауты. Видео: **FFmpeg → OpenCV → Python/C++** — калибровка, фон, трекинг, события, SQLite и вывод на табло.
+> **2022 — 2026 · Завод.** Полный контур: десктоп для стендов проверки, веб для сотрудников, SQL-хранилище документов с поиском по реквизитам и тексту.
 
 </td>
 </tr>
