@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="wave">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF4D8D"/>
+      <stop offset="50%" stop-color="#5CE1E6"/>
+      <stop offset="100%" stop-color="#C8F542"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="90" fill="#070B14"/>
+  <path fill="#0B1220" d="M0,40 C150,10 350,70 600,40 C850,10 1050,70 1200,40 L1200,90 L0,90 Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0,40 C150,10 350,70 600,40 C850,10 1050,70 1200,40 L1200,90 L0,90 Z;
+              M0,48 C180,78 380,12 600,50 C820,88 1020,18 1200,46 L1200,90 L0,90 Z;
+              M0,40 C150,10 350,70 600,40 C850,10 1050,70 1200,40 L1200,90 L0,90 Z"/>
+  </path>
+  <path fill="none" stroke="url(#g)" stroke-width="3" d="M0,40 C150,10 350,70 600,40 C850,10 1050,70 1200,40">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0,40 C150,10 350,70 600,40 C850,10 1050,70 1200,40;
+              M0,48 C180,78 380,12 600,50 C820,88 1020,18 1200,46;
+              M0,40 C150,10 350,70 600,40 C850,10 1050,70 1200,40"/>
+  </path>
+</svg>

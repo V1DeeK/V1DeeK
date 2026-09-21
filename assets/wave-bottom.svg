@@ -1,23 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="wave footer">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FF4D8D"/>
-      <stop offset="50%" stop-color="#5CE1E6"/>
-      <stop offset="100%" stop-color="#C8F542"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="90" fill="#070B14"/>
-  <path fill="#0B1220" d="M0,40 C200,10 400,70 600,40 C800,10 1000,70 1200,40 L1200,90 L0,90 Z">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80">
+  <rect width="1200" height="80" fill="#1C1C1E"/>
+  <path fill="#2C2C2E" d="M0,28 C200,10 400,52 600,30 C800,10 1000,52 1200,28 L1200,80 L0,80 Z">
     <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="M0,40 C200,10 400,70 600,40 C800,10 1000,70 1200,40 L1200,90 L0,90 Z;
-              M0,52 C220,80 420,16 600,54 C780,86 1000,20 1200,48 L1200,90 L0,90 Z;
-              M0,40 C200,10 400,70 600,40 C800,10 1000,70 1200,40 L1200,90 L0,90 Z"/>
+      values="M0,28 C200,10 400,52 600,30 C800,10 1000,52 1200,28 L1200,80 L0,80 Z;
+              M0,40 C220,58 420,14 600,38 C780,60 1000,16 1200,36 L1200,80 L0,80 Z;
+              M0,28 C200,10 400,52 600,30 C800,10 1000,52 1200,28 L1200,80 L0,80 Z"/>
   </path>
-  <path fill="none" stroke="url(#g)" stroke-width="3" d="M0,40 C200,10 400,70 600,40 C800,10 1000,70 1200,40">
+  <path fill="none" stroke="#0A84FF" stroke-width="2" d="M0,28 C200,10 400,52 600,30 C800,10 1000,52 1200,28">
     <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="M0,40 C200,10 400,70 600,40 C800,10 1000,70 1200,40;
-              M0,52 C220,80 420,16 600,54 C780,86 1000,20 1200,48;
-              M0,40 C200,10 400,70 600,40 C800,10 1000,70 1200,40"/>
+      values="M0,28 C200,10 400,52 600,30 C800,10 1000,52 1200,28;
+              M0,40 C220,58 420,14 600,38 C780,60 1000,16 1200,36;
+              M0,28 C200,10 400,52 600,30 C800,10 1000,52 1200,28"/>
   </path>
-  <text x="600" y="78" text-anchor="middle" fill="#8EA0B8" font-family="Consolas, Courier New, monospace" font-size="14">V1DeeK · mr.varder · keep building</text>
+  <text x="600" y="68" text-anchor="middle" fill="#A1A1A6" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13">V1DeeK · mr.varder</text>
 </svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="radar">
+  <rect width="220" height="220" fill="#070B14"/>
+  <circle cx="110" cy="110" r="96" fill="none" stroke="#1c3340" stroke-width="1"/>
+  <circle cx="110" cy="110" r="64" fill="none" stroke="#1c3340" stroke-width="1"/>
+  <circle cx="110" cy="110" r="32" fill="none" stroke="#1c3340" stroke-width="1"/>
+  <line x1="110" y1="14" x2="110" y2="206" stroke="#1c3340" stroke-width="1"/>
+  <line x1="14" y1="110" x2="206" y2="110" stroke="#1c3340" stroke-width="1"/>
+  <g transform="translate(110 110)">
+    <path d="M0 0 L0 -96 A96 96 0 0 1 48 -82 Z" fill="#5CE1E6" fill-opacity="0.28">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <line x1="0" y1="0" x2="0" y2="-96" stroke="#5CE1E6" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  <circle cx="148" cy="72" r="4" fill="#FF4D8D">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="78" cy="150" r="3" fill="#C8F542">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="110" cy="110" r="4" fill="#5CE1E6"/>
+  <text x="110" y="208" text-anchor="middle" fill="#5CE1E6" font-family="Consolas, Courier New, monospace" font-size="12">UAV LINK</text>
+</svg>

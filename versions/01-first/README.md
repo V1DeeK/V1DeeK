@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/menubar.png" alt="menubar" width="100%"/>
   <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/wave-top.svg" alt="wave" width="100%"/>
   <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/banner.png" alt="V1DeeK banner" width="100%"/>
   <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/scanline.svg" alt="scanline" width="100%"/>
@@ -8,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0A84FF&center=true&vCenter=true&width=720&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%92%D0%B0%D0%B4%D0%B8%D0%BC;Full-stack+%26+desktop+developer;%D0%9F%D0%9E+%D0%B4%D0%BB%D1%8F+%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D0%91%D0%9F%D0%9B%D0%90;V1DeeK+%C2%B7+mr.varder" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=5CE1E6&center=true&vCenter=true&width=720&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%92%D0%B0%D0%B4%D0%B8%D0%BC;Full-stack+%26+desktop+developer;%D0%9F%D0%9E+%D0%B4%D0%BB%D1%8F+%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D0%91%D0%9F%D0%9B%D0%90;V1DeeK+%C2%B7+mr.varder" alt="typing"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,ts,react,qt,opencv,dotnet,postgres,git,github,vscode&theme=dark" alt="stack icons"/>
   <br/>
@@ -33,7 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/V1DeeK">
-    <img src="https://img.shields.io/badge/GitHub-V1DeeK-1C1C1E?style=for-the-badge&logo=github&logoColor=0A84FF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-V1DeeK-070B14?style=for-the-badge&logo=github&logoColor=5CE1E6" alt="GitHub"/>
   </a>
   <a href="https://t.me/mr.varder">
     <img src="https://img.shields.io/badge/Telegram-mr.varder-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -41,9 +40,9 @@
   <a href="https://vk.com/mr.varder">
     <img src="https://img.shields.io/badge/VK-mr.varder-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
-  <img src="https://img.shields.io/badge/Yoshkar--Ola-2C2C2E?style=for-the-badge&logo=apple&logoColor=F5F5F7" alt="Yoshkar-Ola"/>
-  <img src="https://img.shields.io/badge/Full--stack-Desktop-0A84FF?style=for-the-badge&logoColor=white" alt="Full-stack desktop"/>
-  <img src="https://komarev.com/ghpvc/?username=V1DeeK&style=for-the-badge&color=0A84FF" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Yoshkar--Ola-0B1220?style=for-the-badge&logo=googlemaps&logoColor=C8F542" alt="Yoshkar-Ola"/>
+  <img src="https://img.shields.io/badge/Full--stack-Desktop-5CE1E6?style=for-the-badge&logoColor=070B14" alt="Full-stack desktop"/>
+  <img src="https://komarev.com/ghpvc/?username=V1DeeK&style=for-the-badge&color=5CE1E6" alt="Profile views"/>
 </div>
 
 <br/>
@@ -75,10 +74,10 @@
 - переквалификация в <a href="https://ispring.institute/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-ispring.png" alt="iSpring" height="18"/> iSpring</a>
 
 <p>
-  <img src="https://img.shields.io/badge/desktop-0A84FF?style=flat-square&labelColor=2C2C2E" alt="desktop"/>
-  <img src="https://img.shields.io/badge/web-30D158?style=flat-square&labelColor=2C2C2E" alt="web"/>
-  <img src="https://img.shields.io/badge/OpenCV-A1A1A6?style=flat-square&labelColor=2C2C2E" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/SQL-F5F5F7?style=flat-square&labelColor=2C2C2E&color=48484A" alt="SQL"/>
+  <img src="https://img.shields.io/badge/desktop-5CE1E6?style=flat-square&labelColor=0B1220" alt="desktop"/>
+  <img src="https://img.shields.io/badge/web-FF4D8D?style=flat-square&labelColor=0B1220" alt="web"/>
+  <img src="https://img.shields.io/badge/OpenCV-C8F542?style=flat-square&labelColor=0B1220&color=1a2a14" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/SQL-8EA0B8?style=flat-square&labelColor=0B1220" alt="SQL"/>
 </p>
 
 </td>
@@ -182,13 +181,13 @@
 Программа software engineering:
 
 <p>
-  <img src="https://img.shields.io/badge/основы_программирования-2C2C2E?style=flat-square&color=0A84FF" alt="основы"/>
-  <img src="https://img.shields.io/badge/web_&_frontend-2C2C2E?style=flat-square&color=30D158" alt="web"/>
-  <img src="https://img.shields.io/badge/базы_данных-2C2C2E?style=flat-square&color=A1A1A6" alt="БД"/>
-  <img src="https://img.shields.io/badge/ООП_C++-2C2C2E?style=flat-square&color=0A84FF" alt="ООП"/>
-  <img src="https://img.shields.io/badge/дискретная_математика-2C2C2E?style=flat-square&color=30D158" alt="дискретная"/>
-  <img src="https://img.shields.io/badge/алгоритмы_и_структуры-2C2C2E?style=flat-square&color=A1A1A6" alt="алгоритмы"/>
-  <img src="https://img.shields.io/badge/Project_Manager-2C2C2E?style=flat-square&color=0A84FF" alt="PM"/>
+  <img src="https://img.shields.io/badge/основы_программирования-0B1220?style=flat-square&color=5CE1E6" alt="основы"/>
+  <img src="https://img.shields.io/badge/web_&_frontend-0B1220?style=flat-square&color=FF4D8D" alt="web"/>
+  <img src="https://img.shields.io/badge/базы_данных-0B1220?style=flat-square&color=8EA0B8" alt="БД"/>
+  <img src="https://img.shields.io/badge/ООП_C++-0B1220?style=flat-square&color=00599C" alt="ООП"/>
+  <img src="https://img.shields.io/badge/дискретная_математика-0B1220?style=flat-square&color=C8F542" alt="дискретная"/>
+  <img src="https://img.shields.io/badge/алгоритмы_и_структуры-0B1220?style=flat-square&color=5CE1E6" alt="алгоритмы"/>
+  <img src="https://img.shields.io/badge/Project_Manager-0B1220?style=flat-square&color=FF4D8D" alt="PM"/>
 </p>
 
 Проекты программы — ниже.
@@ -218,30 +217,30 @@
 
 <p align="center">
   <a href="https://github.com/V1DeeK/Presentation-Maker">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=Presentation-Maker&theme=tokyonight&hide_border=true&bg_color=2C2C2E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7" alt="Presentation-Maker"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=Presentation-Maker&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="Presentation-Maker"/>
   </a>
   <a href="https://github.com/V1DeeK/flappyBird">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=flappyBird&theme=tokyonight&hide_border=true&bg_color=2C2C2E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7" alt="flappyBird"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=flappyBird&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="flappyBird"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/V1DeeK/WEB-2025">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=WEB-2025&theme=tokyonight&hide_border=true&bg_color=2C2C2E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7" alt="WEB-2025"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=WEB-2025&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="WEB-2025"/>
   </a>
   <a href="https://github.com/V1DeeK/game_project_cpp">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=game_project_cpp&theme=tokyonight&hide_border=true&bg_color=2C2C2E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7" alt="game_project_cpp"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=game_project_cpp&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="game_project_cpp"/>
   </a>
 </p>
 
 ## GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=V1DeeK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=2C2C2E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7&ring_color=30D158" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=V1DeeK&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=2C2C2E&title_color=0A84FF&text_color=F5F5F7" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=V1DeeK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9&ring_color=C8F542" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=V1DeeK&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&text_color=C9D1D9" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=V1DeeK&theme=tokyonight&hide_border=true&background=2C2C2E&ring=0A84FF&fire=30D158&currStreakLabel=0A84FF" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=V1DeeK&theme=tokyonight&hide_border=true&background=070B14&ring=5CE1E6&fire=FF4D8D&currStreakLabel=5CE1E6" alt="GitHub streak"/>
 </p>
 
 <p align="center">
