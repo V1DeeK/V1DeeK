@@ -23,49 +23,151 @@
   <img src="https://komarev.com/ghpvc/?username=V1DeeK&style=for-the-badge&color=5CE1E6" alt="Profile views"/>
 </div>
 
----
+<br/>
 
-Я **Вадим Глазырин**, full-stack и desktop-разработчик из Йошкар-Олы. Пишу прикладное ПО: от десктопных систем и компьютерного зрения до внутренних веб-сервисов и баз документов. Сейчас разрабатываю программное обеспечение для управления БПЛА в Центре информационных технологий.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-about.png" alt="about" width="100%"/>
+</div>
 
-Инженерный бэкграунд — радиоэлектроника. Переквалификацию по software engineering прошёл в <a href="https://ispring.institute/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-ispring.png" alt="iSpring" height="20"/> Институте iSpring</a>, уже работая разработчиком.
+<table>
+<tr>
+<td width="52%" valign="top">
 
-## Сейчас
+### Вадим Глазырин
+**Full-stack & desktop developer**  
+Йошкар-Ола · `V1DeeK` · `mr.varder`
 
-**Центр информационных технологий** · full-stack и desktop-разработчик
+Пишу прикладное ПО: десктоп, компьютерное зрение, внутренние веб-сервисы и базы документов.
 
-Разрабатываю программное обеспечение для управления БПЛА: десктопные рабочие места оператора, обмен данными с бортом и наземной частью, веб-интерфейсы сопровождения и служебные сервисы вокруг контура управления.
+Сейчас — программное обеспечение для управления БПЛА в **Центре информационных технологий**.
 
-## Опыт
+</td>
+<td width="48%" valign="top">
 
-| Роль | Место | Что делал |
-| --- | --- | --- |
-| **Full-stack & desktop** | Центр информационных технологий | ПО для управления БПЛА: десктоп, веб, обмен данными с системой |
-| **Full-stack** | Машиностроительный завод | Программы проверки аппаратуры и изделий. Внутренний сайт завода: главная, вакансии, поиск по разделам. База локальных нормативных актов — документы можно было искать и читать с сайта |
-| **Desktop, совместительство** | Спортивный центр | ПО управления табло на баскетбольных матчах. Подсчёт игровой статистики по видео: детекция событий на записи, трекинг игроков, протокол матча |
+### Контур
 
-На заводе собирал полный контур: десктоп для стендов проверки, веб для сотрудников и SQL-хранилище документов с поиском по реквизитам и тексту.
+- радиоинженер → software
+- стенды, внутренний сайт, документы
+- табло и статистика по видео
+- переквалификация в <a href="https://ispring.institute/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-ispring.png" alt="iSpring" height="18"/> iSpring</a> уже в работе
 
-В спортивном центре десктоп общался с контроллером табло по TCP/UDP, вёл игровые часы, счёт, фолы и тайм-ауты. Статистика по видео шла через пайплайн **FFmpeg → OpenCV → Python/C++**: калибровка камеры, вычитание фона, трекинг, разметка событий (бросок, подбор, фол), выгрузка в SQLite и на табло.
+<p>
+  <img src="https://img.shields.io/badge/desktop-5CE1E6?style=flat-square&labelColor=0B1220" alt="desktop"/>
+  <img src="https://img.shields.io/badge/web-FF4D8D?style=flat-square&labelColor=0B1220" alt="web"/>
+  <img src="https://img.shields.io/badge/OpenCV-C8F542?style=flat-square&labelColor=0B1220&color=1a2a14" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/SQL-8EA0B8?style=flat-square&labelColor=0B1220" alt="SQL"/>
+</p>
 
-## Образование
+</td>
+</tr>
+</table>
 
-**2016 — 2022** · инженер  
-<a href="https://www.volgatech.net/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-volgatech.png" alt="ПГТУ" height="22"/> Поволжский государственный технологический университет</a>  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-now.png" alt="now" width="100%"/>
+</div>
+
+<table>
+<tr>
+<td valign="top">
+
+### Центр информационных технологий
+`full-stack` `desktop` `сейчас`
+
+Разрабатываю ПО для управления БПЛА: десктопные рабочие места оператора, обмен данными с бортом и наземной частью, веб-интерфейсы сопровождения и служебные сервисы вокруг контура управления.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-experience.png" alt="experience" width="100%"/>
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ЦИТ
+**Full-stack & desktop**  
+`сейчас`
+
+ПО для управления БПЛА: десктоп, веб, обмен данными с системой.
+
+</td>
+<td width="34%" valign="top">
+
+### Машиностроительный завод
+**Full-stack**  
+`после выпуска`
+
+Программы проверки аппаратуры и изделий. Внутренний сайт: главная, вакансии, поиск. База нормативных актов — поиск и просмотр документов.
+
+</td>
+<td width="33%" valign="top">
+
+### Спортивный центр
+**Desktop**  
+`совместительство`
+
+ПО управления табло на баскетболе. Статистика по видео: детекция событий, трекинг игроков, протокол матча.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+> **Завод.** Полный контур: десктоп для стендов проверки, веб для сотрудников, SQL-хранилище документов с поиском по реквизитам и тексту.
+
+</td>
+<td width="50%" valign="top">
+
+> **Спортцентр.** Табло по TCP/UDP: часы, счёт, фолы, тайм-ауты. Видео: **FFmpeg → OpenCV → Python/C++** — калибровка, фон, трекинг, события, SQLite и вывод на табло.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-education.png" alt="education" width="100%"/>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://www.volgatech.net/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-volgatech.png" alt="ПГТУ" height="22"/> Волгатех</a>
+**2016 — 2022** · инженер
+
+[Поволжский государственный технологический университет](https://www.volgatech.net/)
+
 Специальность: **радиоэлектронные системы и комплексы**
 
-**Переквалификация** · <a href="https://ispring.institute/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-ispring.png" alt="iSpring" height="22"/> Институт iSpring</a>  
-Прошёл программу, уже работая разработчиком:
+</td>
+<td width="50%" valign="top">
 
-- основы программирования
-- web и frontend-разработка
-- базы данных
-- объектно-ориентированное программирование на C++
-- дискретная и комбинаторная математика
-- алгоритмы и структуры данных
+### <a href="https://ispring.institute/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-ispring.png" alt="iSpring" height="22"/> Институт iSpring</a>
+**Переквалификация** · уже в работе
 
-Дополнительно — курс **Project Manager**.
+Программа software engineering:
 
-Учебные проекты с этой программы закреплены ниже: веб, C++, базы данных, алгоритмы.
+<p>
+  <img src="https://img.shields.io/badge/основы_программирования-0B1220?style=flat-square&color=5CE1E6" alt="основы"/>
+  <img src="https://img.shields.io/badge/web_&_frontend-0B1220?style=flat-square&color=FF4D8D" alt="web"/>
+  <img src="https://img.shields.io/badge/базы_данных-0B1220?style=flat-square&color=8EA0B8" alt="БД"/>
+  <img src="https://img.shields.io/badge/ООП_C++-0B1220?style=flat-square&color=00599C" alt="ООП"/>
+  <img src="https://img.shields.io/badge/дискретная_математика-0B1220?style=flat-square&color=C8F542" alt="дискретная"/>
+  <img src="https://img.shields.io/badge/алгоритмы_и_структуры-0B1220?style=flat-square&color=5CE1E6" alt="алгоритмы"/>
+  <img src="https://img.shields.io/badge/Project_Manager-0B1220?style=flat-square&color=FF4D8D" alt="PM"/>
+</p>
+
+Проекты программы — ниже.
+
+</td>
+</tr>
+</table>
 
 ## Проекты переквалификации
 
@@ -136,10 +238,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions"/>
 </p>
-
-## Связь
-
-Если нужно обсудить задачу, код или сотрудничество — пишите.
 
 <p align="center">
   <a href="https://github.com/V1DeeK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
