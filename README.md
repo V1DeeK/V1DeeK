@@ -1,11 +1,17 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/wave-top.svg" alt="wave" width="100%"/>
   <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/banner.png" alt="V1DeeK banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/scanline.svg" alt="scanline" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=5CE1E6&center=true&vCenter=true&width=720&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%92%D0%B0%D0%B4%D0%B8%D0%BC;Full-stack+%26+desktop+developer;%D0%9F%D0%9E+%D0%B4%D0%BB%D1%8F+%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D0%91%D0%9F%D0%9B%D0%90;C%2B%2B+%C2%B7+Web+%C2%B7+SQL+%C2%B7+OpenCV" alt="typing"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=FF4D8D&center=true&vCenter=true&width=720&lines=UAV+ground+control;OpenCV+%C2%B7+FFmpeg+%C2%B7+SQL;desktop+apps+on+C%2B%2B+and+Qt;web+%C2%B7+React+%C2%B7+TypeScript" alt="typing stack"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/live.svg" alt="live"/>
 </div>
 
 <div align="center">
@@ -26,7 +32,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-about.png" alt="about" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-about.svg" alt="about" width="100%"/>
 </div>
 
 <table>
@@ -63,12 +69,12 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-now.png" alt="now" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-now.svg" alt="now" width="100%"/>
 </div>
 
 <table>
 <tr>
-<td valign="top">
+<td width="78%" valign="top">
 
 ### Центр информационных технологий
 `full-stack` `desktop` `сейчас`
@@ -76,11 +82,16 @@
 Разрабатываю ПО для управления БПЛА: десктопные рабочие места оператора, обмен данными с бортом и наземной частью, веб-интерфейсы сопровождения и служебные сервисы вокруг контура управления.
 
 </td>
+<td width="22%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/radar.svg" alt="UAV radar" width="180"/>
+
+</td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-experience.png" alt="experience" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-experience.svg" alt="experience" width="100%"/>
 </div>
 
 <table>
@@ -131,7 +142,7 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-education.png" alt="education" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-education.svg" alt="education" width="100%"/>
 </div>
 
 <table>
@@ -246,5 +257,5 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/footer.png" alt="footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/wave-bottom.svg" alt="footer" width="100%"/>
 </div>
