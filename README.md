@@ -49,7 +49,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-about.svg?v=2" alt="about" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-about.svg?v=3" alt="about" width="100%"/>
 </div>
 
 <table>
@@ -86,7 +86,7 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-now.svg?v=2" alt="now" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-now.svg?v=3" alt="now" width="100%"/>
 </div>
 
 <table>
@@ -108,7 +108,7 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-experience.svg?v=2" alt="experience" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-experience.svg?v=3" alt="experience" width="100%"/>
 </div>
 
 <table>
@@ -159,7 +159,7 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-education.svg?v=2" alt="education" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-education.svg?v=3" alt="education" width="100%"/>
 </div>
 
 <table>
