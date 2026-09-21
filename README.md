@@ -27,7 +27,7 @@
 
 Я **Вадим Глазырин**, full-stack и desktop-разработчик из Йошкар-Олы. Пишу прикладное ПО: от десктопных систем и компьютерного зрения до внутренних веб-сервисов и баз документов. Сейчас разрабатываю программное обеспечение для управления БПЛА в Центре информационных технологий.
 
-Инженерный бэкграунд — радиоэлектроника. Переквалификацию по software engineering прошёл в [Институте iSpring](https://ispring.institute/), уже работая разработчиком.
+Инженерный бэкграунд — радиоэлектроника. Переквалификацию по software engineering прошёл в <a href="https://ispring.institute/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-ispring.png" alt="iSpring" height="20"/> Институте iSpring</a>, уже работая разработчиком.
 
 ## Сейчас
 
@@ -50,10 +50,10 @@
 ## Образование
 
 **2016 — 2022** · инженер  
-[Поволжский государственный технологический университет](https://www.volgatech.net/)  
+<a href="https://www.volgatech.net/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-volgatech.png" alt="ПГТУ" height="22"/> Поволжский государственный технологический университет</a>  
 Специальность: **радиоэлектронные системы и комплексы**
 
-**Переквалификация** · [Институт iSpring](https://ispring.institute/)  
+**Переквалификация** · <a href="https://ispring.institute/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-ispring.png" alt="iSpring" height="22"/> Институт iSpring</a>  
 Прошёл программу, уже работая разработчиком:
 
 - основы программирования
