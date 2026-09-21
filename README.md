@@ -49,7 +49,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-about.svg" alt="about" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-about.svg?v=2" alt="about" width="100%"/>
 </div>
 
 <table>
@@ -86,7 +86,7 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-now.svg" alt="now" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-now.svg?v=2" alt="now" width="100%"/>
 </div>
 
 <table>
@@ -108,7 +108,7 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-experience.svg" alt="experience" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-experience.svg?v=2" alt="experience" width="100%"/>
 </div>
 
 <table>
@@ -159,7 +159,7 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-education.svg" alt="education" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-education.svg?v=2" alt="education" width="100%"/>
 </div>
 
 <table>
@@ -197,7 +197,10 @@
 </tr>
 </table>
 
-## Проекты переквалификации
+<div align="center">
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-projects.svg" alt="projects" width="100%"/>
+</div>
+
 
 <table>
 <tr>
@@ -233,7 +236,10 @@
   </a>
 </p>
 
-## GitHub
+<div align="center">
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-github.svg" alt="github" width="100%"/>
+</div>
+
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.shion.dev/api?username=V1DeeK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=2C2C2E&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7&ring_color=30D158" alt="GitHub stats"/>
