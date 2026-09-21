@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="V1DeeK banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/banner.png" alt="V1DeeK banner" width="100%"/>
 </div>
 
 <br/>
@@ -12,6 +12,9 @@
   <a href="https://github.com/V1DeeK">
     <img src="https://img.shields.io/badge/GitHub-V1DeeK-070B14?style=for-the-badge&logo=github&logoColor=5CE1E6" alt="GitHub"/>
   </a>
+  <a href="https://t.me/mr.varder">
+    <img src="https://img.shields.io/badge/Telegram-mr.varder-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
   <a href="https://vk.com/mr.varder">
     <img src="https://img.shields.io/badge/VK-mr.varder-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
@@ -22,19 +25,9 @@
 
 ---
 
-```ts
-const v1deek = {
-  name: "Vadim Glazyrin",
-  handle: "V1DeeK",
-  from: "Yoshkar-Ola",
-  studying: "Институт программных систем iSpring",
-  mission: "Стать востребованным web-программистом",
-  now: ["React", "TypeScript", "SQL"],
-  playground: ["C++", "SFML", "game prototypes"],
-};
-```
+Я **Вадим Глазырин**, учусь на программиста в Институте программных систем iSpring в Йошкар-Оле. Собираю портфолио сразу по двум дорожкам: **веб**, куда хочу прийти, и **C++ / игры**, через которые уже умею доводить идеи до работающего кода.
 
-Учусь на программиста и собираю портфолио сразу по двум дорожкам: **веб**, куда хочу прийти, и **C++ / игры**, через которые уже умею доводить идеи до работающего кода.
+Цель простая: стать востребованным web-программистом.
 
 ## Сейчас
 
@@ -65,18 +58,18 @@ const v1deek = {
 
 <p align="center">
   <a href="https://github.com/V1DeeK/Presentation-Maker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1DeeK&repo=Presentation-Maker&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="Presentation-Maker"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=Presentation-Maker&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="Presentation-Maker"/>
   </a>
   <a href="https://github.com/V1DeeK/flappyBird">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1DeeK&repo=flappyBird&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="flappyBird"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=flappyBird&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="flappyBird"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/V1DeeK/WEB-2025">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1DeeK&repo=WEB-2025&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="WEB-2025"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=WEB-2025&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="WEB-2025"/>
   </a>
   <a href="https://github.com/V1DeeK/game_project_cpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1DeeK&repo=game_project_cpp&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="game_project_cpp"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=V1DeeK&repo=game_project_cpp&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9" alt="game_project_cpp"/>
   </a>
 </p>
 
@@ -100,12 +93,12 @@ const v1deek = {
 ## GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=V1DeeK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9&ring_color=C8F542" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1DeeK&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&text_color=C9D1D9" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=V1DeeK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&icon_color=FF4D8D&text_color=C9D1D9&ring_color=C8F542" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=V1DeeK&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=070B14&title_color=5CE1E6&text_color=C9D1D9" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V1DeeK&theme=tokyonight&hide_border=true&background=070B14&ring=5CE1E6&fire=FF4D8D&currStreakLabel=5CE1E6" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=V1DeeK&theme=tokyonight&hide_border=true&background=070B14&ring=5CE1E6&fire=FF4D8D&currStreakLabel=5CE1E6" alt="GitHub streak"/>
 </p>
 
 <p align="center">
@@ -118,9 +111,10 @@ const v1deek = {
 
 <p align="center">
   <a href="https://github.com/V1DeeK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://t.me/mr.varder"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://vk.com/mr.varder"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/></a>
 </p>
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/footer.png" alt="footer" width="100%"/>
 </div>
