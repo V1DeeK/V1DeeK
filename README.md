@@ -198,7 +198,7 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-projects.svg" alt="projects" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-projects.svg?v=3" alt="projects" width="100%"/>
 </div>
 
 
@@ -237,7 +237,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-github.svg" alt="github" width="100%"/>
+  <img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/h-github.svg?v=3" alt="github" width="100%"/>
 </div>
 
 
