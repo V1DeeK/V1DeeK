@@ -71,7 +71,7 @@
 - радиоинженер → software
 - стенды, внутренний сайт, документы
 - табло и статистика по видео
-- переквалификация в <a href="https://ispring.institute/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-ispring.png" alt="iSpring" height="18"/> iSpring</a> уже в работе
+- переквалификация в <a href="https://ispring.institute/"><img src="https://raw.githubusercontent.com/V1DeeK/V1DeeK/main/assets/logo-ispring.png" alt="iSpring" height="18"/> iSpring</a>
 
 <p>
   <img src="https://img.shields.io/badge/desktop-5CE1E6?style=flat-square&labelColor=0B1220" alt="desktop"/>
