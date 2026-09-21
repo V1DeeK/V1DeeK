@@ -1,4 +1,31 @@
 <div align="center">
+  <img src="assets/banner.png" alt="banner" width="100%"/>
+</div>
+
+## Привет
+
+Я … Сейчас делаю … Интересуюсь …
+
+## Проекты
+
+| Репозиторий | Описание | Ссылка |
+|---|---|---|
+| [rmo](https://github.com/YOU/rmo) | АРМ оператора на Qt 6 | — |
+
+## Опыт
+
+| Роль | Место | Период |
+|---|---|---|
+| … | … | 2024 — сейчас |
+
+## Стек
+
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+
+<div align="center">
   <a href="https://www.linkedin.com/in/V1DeeK/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -33,3 +60,5 @@
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=V1DeeK&theme=merko&hide_border=true&bg_color=0D1117" alt="Activity graph"/>
 </p>
+
+
